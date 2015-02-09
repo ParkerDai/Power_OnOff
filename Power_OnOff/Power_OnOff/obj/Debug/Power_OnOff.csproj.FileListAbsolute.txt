@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\bin\Debug\Power_OnOff.exe
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\bin\Debug\Power_OnOff.pdb
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\obj\Debug\Power_OnOff.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\obj\Debug\Power_OnOff.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\obj\Debug\Power_OnOff.exe
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_OnOff\obj\Debug\Power_OnOff.pdb

@@ -1,0 +1,26 @@
+D:\VC程式練習\Power_On_Off\Power_On_Off\bin\Debug\Power_On_Off_vc#.exe
+D:\VC程式練習\Power_On_Off\Power_On_Off\bin\Debug\Power_On_Off_vc#.pdb
+D:\VC程式練習\Power_On_Off\Power_On_Off\obj\Debug\ResolveAssemblyReference.cache
+D:\VC程式練習\Power_On_Off\Power_On_Off\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VC程式練習\Power_On_Off\Power_On_Off\obj\Debug\Power_On_Off.Properties.Resources.resources
+D:\VC程式練習\Power_On_Off\Power_On_Off\obj\Debug\Power_On_Off.csproj.GenerateResource.Cache
+D:\VC程式練習\Power_On_Off\Power_On_Off\obj\Debug\Power_On_Off_vc#.exe
+D:\VC程式練習\Power_On_Off\Power_On_Off\obj\Debug\Power_On_Off_vc#.pdb
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off_vc#.exe
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off_vc#.pdb
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\ResolveAssemblyReference.cache
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off.Properties.Resources.resources
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off.csproj.GenerateResource.Cache
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\bin\Debug\Power_On_Off_vc#.exe
+D:\VC程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\bin\Debug\Power_On_Off_vc#.pdb
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\bin\Debug\Power_On_Off_c#.exe
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\bin\Debug\Power_On_Off_c#.pdb
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\ResolveAssemblyReference.cache
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off.Properties.Resources.resources
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off.csproj.GenerateResource.Cache
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off_c#.exe
+D:\VC#程式練習\Power_On_Off_(Thread & timeGetTime)\Power_On_Off\obj\Debug\Power_On_Off_c#.pdb
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_On_Off\obj\Debug\Power_On_Off_c#.exe
+C:\Documents and Settings\Administrator\桌面\Power_OnOff\Power_On_Off\obj\Debug\Power_On_Off_c#.pdb
